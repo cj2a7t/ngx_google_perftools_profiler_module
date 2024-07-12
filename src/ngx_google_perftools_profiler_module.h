@@ -12,8 +12,8 @@ extern "C" {
 #include <ngx_core.h>
 }
 
-// #include <google/profiler.h>
-// #include <google/heap-profiler.h>
+#include <google/profiler.h>
+#include <google/heap-profiler.h>
 
 extern "C" {
 
